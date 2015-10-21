@@ -1,4 +1,4 @@
-#  Project #3: <u>HOMEPAGE</u>
+#  Project #4: <u>HaroldCleworth.com</u>
 ### <u>Overview</u>
 
 Homepage, is your NEW <b>HOMEPAGE</b>! 
@@ -10,14 +10,14 @@ Members can log in via Facebook or they may enroll with their own email and pass
 
 ---
 
-### <u>Homepage Live Link</u></br>
+### <u>Live Link</u></br>
 
-##<http://koncieve.com/></br></br>
+##<http://tba.com/></br></br>
 
 
 
 ---
-### <u>Team Build Approach</u>
+### <u>Build Approach</u>
 
 
 We met and conceptually decided upon building a <b>‘homepage’</b> because it would allow us the most opportunities to work with various APIs. We spent an afternoon producing wire frames and building out our basic architecture.
@@ -53,43 +53,47 @@ We also tried to incorporate geolocation to populate the weather display instead
 ---
 
 ### <u>User Stories</u></br>
-![Brad Pic](http://www.imageurlhost.com/images/79fc4wq0q73z8obpngli_DonDonsky.png)
+![Jay Leno Pic](http://i2.cdn.turner.com/cnn/2010/images/11/08/t1larg.leno.turbine.cnn.jpg)
 
 
-**User #1:**</br>
-Don Donsky is a high finance executive in New York City. His time is so valuable, he barely has time to brush his teeth or comb his hair, let alone have a personal life.
+**User #1:** Jay Leno</br>
+Celebrity and car enthusiast, Jay Leno, is curious about what new projects Harold has been working on lately.
 
-Don Donsky would like a place where he can easily search the internet for questions and have a quick laugh.
+Jay not only collects actual vintage cars but artwork of all kinds and varities.
 
-- Don is able to sign in quickly and authenticate with his Facebook account.
-- Don is able to view joke of the day.
+- Jay is able to navigate to the new site for Harold Cleworth.
+- Jay is able to access the "new" page.
+- Jay is able to access the contact us page and obtian Harold's most current contact information (phone and email).
+- Jay is able to add himself to Harold's mailing list.
 
-P.S. Don hopes Sound Cloud can be added soon, so he can hear his tunes!
 
 ---
-![Brad Pic](http://i.dailymail.co.uk/i/pix/2014/10/24/1414114242159_wps_23_Moki_is_a_5_year_old_gold.jpg)
-**User #2:** </br>
-Brad Bakalar is a crazy biker bro from Reno, Nevada. Brad hates watching television, too many trashy shows. But he would like an easy way to check the weather and see if it is optimal to take his french poodle, Moki, out for her walk and then for a ride.
+![Mark & Betty Pic](http://www.foryourmarriage.org/wp-content/themes/marriage/scripts/timthumb.php?src=/wp-content/uploads/img_matureCouple.jpg&h=245&w=477&zc=1)
+**User #2:** Mark & Betty Singleton</br>
+Mark & Betty have been married for nearly 40 years. Betty would like to surprise Mark with a picture of a 1962 Thunderbird Convertible for their 40th wedding anniversary. Mark gave up the car as they had their second child.
 
-Brad is also not a fan of social media.
+- Betty is able to locate the website.
+- Betty is able to read about the artists on the "about" page.
+- Betty is able to navigate to the index page => the American Classics page => and locate the 1962 Thunderbird.
+- Betty is able to read about the details of the painting.
+- Betty is able to add the product to the shopping cart.
+- Betty is able to put her shipping information in the site.
+- Betty is able to use her credit card and purchase the image of the 1962 Thunderbird.
+- Betty feels confident and secure about her online transaction.
 
-- Brad is able to sign up for an account and log in without any social media.
-- Brad is able to input his zipcode, view his current weather, and determine if he can take the pooddle for a ride/walk.
 
 ---
 
-![Wonder Woman Pic](http://www.oocities.org/suzi_with_a_silent_q/WonderWoman.jpg)</br>
-**User #3:** </br>
-Wonder Woman is a busy crime fighting, invisible plane flying,  super hero! After dealing with the low-life scumb of the world, she just wants to sit back, relax, and look at cute pictures of dogs and cats. 
+![Harold Cleworth Pic](http://worldnewsvine.com/wp-content/uploads/2015/03/Artist-Harold-Cleworth-of-Venice-CA.jpg)</br>
+**User #3:** Harold Cleworth</br>
+As the owner of the site, Harold has administrative access to the site. 
 
-It is also helpful to know of inclement weather and if she needs to park the invisible plane in the hangar?
-
-Also, prior to starting her day, she may need to search the web for information of the habits of criminals.
-
-- Wonder Woman is able to sign in via her Facebook account.
-- Wonder Woman is able to check the weather conditons.
-- Wonder Woman is able to do a Google search of the Joker, and gain valuable intel to stop his evil plans.
-- Wonder Woman can search for pictures of kittens and puppies.
+- Harold is able to access the hidden admin login area.
+- Harold can add a new item(image, title, description).
+- Harold can update/edit an existing item.
+- Harold can delete an item.
+- Harold can pull a list of current orders, with customer info.
+- Harold can access a list of email subscribers.
 
 ---
 ### <u>Wire Frames</u></br>
